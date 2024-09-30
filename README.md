@@ -89,12 +89,10 @@ To run this project locally, follow these steps:
 
 ```plaintext
 Credit Risk Assessment Project/
-├── data/                # Contains datasets used in the analysis
-├── notebooks/           # Jupyter notebooks containing analysis
-├── models/              # Trained machine learning models
-├── results/             # Analysis results, plots, etc.
+├── credit_risk_dataset.csv                # Contains datasets used in the analysis
+├── Credit_risk_Assessment_Project_Python Notebook.ipynb           # Jupyter notebooks containing analysis
 ├── README.md            # Project documentation
-└── requirements.txt     # Required dependencies for the project
+└── Credit_risk_Assessment_Project.pptx     # Project Presentation
 ```
 
 ## Usage
